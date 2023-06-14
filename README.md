@@ -1,7 +1,9 @@
 :ukraine:
 :octocat:
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
+[![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
 <!--
 **naturkach/naturkach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
